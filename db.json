@@ -6,7 +6,7 @@
       "description": "Dive into the fascinating world of quantum computing, where traditional binary bits make way for qubits, unlocking unprecedented computational power. Explore the potential applications, challenges, and the race among tech giants to achieve quantum supremacy.",
       "publish_date": "2024-03-01",
       "author_name": "Mezbaul Abedin Persian",
-      "blog_image": "https://www.insights.onegiantleap.com/content/images/2023/10/Content-Hub-Blog---The-rise-of-quantum-computing.png",
+      "blog_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_mAcrV3vVhLq6HK4c1liqGV59qhOwXdEGw&s",
       "total_likes": "1200"
     },
     {
@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "abc",
+      "description": "abc",
+      "publish_date": "2024-10-06",
+      "author_name": "mansur",
+      "blog_image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QAqRXhpZgAASUkqAAgAAAABADEBAgAHAAAAGgAAAAAAAABHb29nbGUAAP/bAIQAAwICCggKCgoKCAsKCggICggLCwsICgoLCAoKCgoKCgoICgoKCggKCgsKCAoKCgoKCggKCgoICgsNCgoNCAoNCgEDBAQGBQYKBgYKEA0LDQ8NDw8NDw0NDQ0NDw8NDw0NDQ8NDQ8NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0N/8AAEQgAoAFAAwERAAIRAQMRAf/EAB0AAAEEAwEBAAAAAAAAAAAAAAYDBAUHAQIIAAn/xABEEAACAgECBAMGBAQFAwEHBQABAgMREgQhAAUTMQYiQQcUIzJRYQhxgZFCobHwFTNSweEkYtFDJTRTY3KC8RY1RGST/8QAGwEAAgMBAQEAAAAAAAAAAAAAAwQAAQIFBgf/xAA1EQACAgEDAgMGBQMEAwAAAAAAAQIRAxIhMQRBEyJRBRQyYXHwgZGhscFS0eEVM0JyBmLx/9oADAMBAAIRAxEAPwCqkPHmdI/Y6jXiaSxZU4yWnQoqcUa1GOlxVGjwTiyChS+LIY924qyGvuDfXjepENBojxOSDk6bbi0qIIScuvuoP5qD/XglkIrVciQG8VC+vzX+mJA/kK4lkHESKR5CCB99v1O5PFkEtUoSvKar71+Vdv8AfiEEk5eWorVeoPf/AM/nxpMhsOQi/v8Amf5fTi9RBVOVemR2+/8Ax/XiaiCxUKN2sAVf/njBD0UqkWLO3op/8f8AjiEN9JGzfMtf368ZbLHnuI4zZKEG0g+nFljebEd+LoyMZNSvopJ+n3/Ykftxog7XTiu1cQhq2m4tMhr0eNaiCR+n+4H9TxNRBj0fNVrdXRO9XV19L2viaiD9Iz/z/wAcYIb+7n1F8VZBFtN9uLIatFxCCUgPoL/X/ji0rINpJj/Z42lRiXIk0N9z/X/b/niy0hRdMPv/AE4ho",
+      "total_likes": "100"
     }
   ]
 }
